@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/Assignment 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/Assignment 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/Assignment 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/Assignment 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/Assignment 1/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset"
+			]
+		}
+	]
+}
